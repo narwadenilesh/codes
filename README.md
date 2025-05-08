@@ -4,7 +4,7 @@ network security
 ////// exp1 
 ```
 import java.util.Scanner;
-public class PasswordManager {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String password = "Admin";
