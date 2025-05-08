@@ -1,7 +1,8 @@
 # codes
 network security
-```
+
 ////// exp1 
+```
 import java.util.Scanner;
 public class PasswordManager {
     public static void main(String[] args) {
@@ -46,10 +47,11 @@ public class PasswordManager {
         }
     }
 }
+```
 
 
 ///// exp2 transposition
-
+```
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -136,9 +138,10 @@ public class Main {
         System.out.println("Decrypted Text: " + decryptedText);
     }
 }
-
+```
 
 //// exp3 substitution
+```
 import java.util.Scanner;
 public class Main {
     // Normalize the key to be within the range [0, 25]
